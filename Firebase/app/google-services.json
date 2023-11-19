@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "604625457715",
+    "project_id": "lesson10-firebase",
+    "storage_bucket": "lesson10-firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:604625457715:android:59d17048cbd72133b34946",
+        "android_client_info": {
+          "package_name": "com.example.firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCa2rC6nsqu2AH8wQg0RBZIIFIA7BfK5Is"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
